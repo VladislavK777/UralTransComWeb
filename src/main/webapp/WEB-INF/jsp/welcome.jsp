@@ -62,12 +62,17 @@
 						<td style="background: #ffffff; color: #364274;">Сервис позволяет распределить вагоны по минимальному расстоянию</td>
 						<td class="td_report_a"  style="background: #ffffff; color: #364274;"><a class="bot1" href="http://localhost:8889/distributionpark" target="_blank">Перейти</a></td>
 					</tr>
-
 					<tr>
 						<td style="background: #ffffff; color: #364274;">Сервис динамического распределения вагонов</td>
-						<td style="background: #ffffff; color: #364274;">Сервис позволяет распределить вагоны по минимальному расстоянию и вывесли доходность за 31 день</td>
-						<td class="td_report_a"  style="background: #ffffff; color: #364274;"><a class="bot1" href="http://localhost:8889/dynamicdistributionpark" target="_blank">Перейти</a></td>
+						<td style="background: #ffffff; color: #364274;"></td>
+						<td class="background: #ffffff; color: #364274;">Компонент не установлен</td>
 					</tr>
+					<tr>
+                        <td style="background: #ffffff; color: #364274;">Сервис динамического распределения парка</td>
+                        <td style="background: #ffffff; color: #364274;"></td>
+                        <td class="background: #ffffff; color: #364274;">Компонент не установлен</td>
+                    </tr>
+
 
                 </table>
              </div>
