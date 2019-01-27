@@ -15,8 +15,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link href="resources/style.css" rel="stylesheet" type="text/css"/>
     <link rel="shortcut icon" href="resources/favicon.ico" type="image/x-icon">
-    <script type="text/javascript"
-            src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" />
     </script>
 
     <!-- Копирайт -->
@@ -63,15 +62,20 @@
 						<td class="td_report_a"  style="background: #ffffff; color: #364274;"><a class="bot1" href="http://localhost:8889/distributionpark" target="_blank">Перейти</a></td>
 					</tr>
 					<tr>
+                        <td style="background: #ffffff; color: #364274;">Сервис расчета ставок</td>
+                        <td style="background: #ffffff; color: #364274;">Сервис позволяет за считанные секунды расчитать ставку, доступна гибкая настройка</td>
+                        <td class="td_report_a"  style="background: #ffffff; color: #364274;"><a class="bot1" href="http://localhost:8889/calculaterate" target="_blank">Перейти</a></td>
+                    <tr>
+					<tr>
 						<td style="background: #ffffff; color: #364274;">Сервис динамического распределения вагонов</td>
 						<td style="background: #ffffff; color: #364274;"></td>
 						<td class="background: #ffffff; color: #364274;">Компонент не установлен</td>
 					</tr>
 					<tr>
                         <td style="background: #ffffff; color: #364274;">Сервис динамического распределения парка</td>
-                        <td style="background: #ffffff; color: #364274;"></td>
-                        <td class="background: #ffffff; color: #364274;">Компонент не установлен</td>
-                    </tr>
+                        <td style="background: #ffffff; color: #364274;">Сервис распределяет парк вагонов с расчетов общей доходности</td>
+                        <td class="td_report_a"  style="background: #ffffff; color: #364274;"><a class="bot1" href="http://localhost:8889/dynamicdistributionpark" target="_blank">Перейти</a></td>
+                    <tr>
 
 
                 </table>
