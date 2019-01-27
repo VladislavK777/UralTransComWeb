@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.uraltranscom.uraltranscomweb</groupId>
-    <artifactId>uraltranscom</artifactId>
-    <name>UralTransCom</name>
+    <artifactId>uraltranscomweb</artifactId>
+    <name>UralTransComWeb</name>
     <packaging>war</packaging>
     <version>1.0</version>
 
